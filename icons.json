@@ -1,5 +1,84 @@
 [
     {
+        "id": 121,
+        "name": "Bugged Blank"
+    },
+    {
+        "id": 29,
+        "name": "Blank Helmet",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon29.jpg"
+    },
+    {
+        "id": 37,
+        "name": "Royal Club",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon37.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Gaming Gear EU",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon32.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Minseki",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon34.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Ninja Sword",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon35.jpg"
+    },
+    {
+        "id": 740,
+        "name": "Challenger 5v5 S4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon740.jpg"
+    },
+    {
+        "id": 722,
+        "name": "Challenger Solo S4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon722.jpg"
+    },
+    {
+        "id": 974,
+        "name": "Challenger Solo S5",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon974.jpg"
+    },
+    {
+        "id": 1419,
+        "name": "Challenger Solo S6",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1419.jpg"
+    },
+    {
+        "id": 3205,
+        "name": "Challenger Solo S7",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3205.jpg"
+    },
+    {
+        "id": 3812,
+        "name": "Challenger Solo S8",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3812.jpg"
+    },
+    {
+        "id": 5131,
+        "name": "Challenger Icon 1",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5131.jpg"
+    },
+    {
+        "id": 5140,
+        "name": "Challenger Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5140.jpg"
+    },
+    {
+        "id": 5585,
+        "name": "Challenger Icon 3",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5585.jpg"
+    },
+    {
+        "id": 5594,
+        "name": "Challenger Icon 4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5594.jpg"
+    },
+    {
         "id": 4492,
         "name": "Esport Teemo infront of TV",
         "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4492.jpg"
@@ -7,6 +86,356 @@
     {
         "id": 4150,
         "name": "Esport Teemo",
-        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4492.jpg"
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4150.jpg"
+    },
+    {
+        "id": 4018,
+        "name": "Paper Craft Nunu",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4018.jpg"
+    },
+    {
+        "id": 4532,
+        "name": "Pajama Veigar",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4532.jpg"
+    },
+    {
+        "id": 3150,
+        "name": "Sacred Sword Janna",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3150.jpg"
+    },
+    {
+        "id": 3504,
+        "name": "Unobtainable Knight Icon (Eternal Reign)",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3504.jpg"
+    },
+    {
+        "id": 1667,
+        "name": "Light with Wings",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1667.jpg"
+    },
+    {
+        "id": 1669,
+        "name": "Blue Sword Icon (Unobtainable)",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1669.jpg"
+    },
+    {
+        "id": 4787,
+        "name": "10 Years Neon Poro",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4787.jpg"
+    },
+    {
+        "id": 4379,
+        "name": "Annie Icon",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4379.jpg"
+    },
+    {
+        "id": 1636,
+        "name": "Cosmic Reaver Kassadin",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1636.jpg"
+    },
+    {
+        "id": 2074,
+        "name": "Sunglasses Crab",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon2074.jpg"
+    },
+    {
+        "id": 3795,
+        "name": "KDA Girls Icon 1",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3795.jpg"
+    },
+    {
+        "id": 3796,
+        "name": "KDA Girls Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3796.jpg"
+    },
+    {
+        "id": 3797,
+        "name": "KDA Girls Icon 3",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3797.jpg"
+    },
+    {
+        "id": 3798,
+        "name": "KDA Girls Icon 4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon3798.jpg"
+    },
+    {
+        "id": 4764,
+        "name": "Project LeBlanc (Morgana?)",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4764.jpg"
+    },
+    {
+        "id": 4765,
+        "name": "Cool Project Orange X",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4765.jpg"
+    },
+    {
+        "id": 4794,
+        "name": "All Out KDA Icon 1",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4794.jpg"
+    },
+    {
+        "id": 4795,
+        "name": "All Out KDA Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4795.jpg"
+    },
+    {
+        "id": 4796,
+        "name": "All Out KDA Icon 3",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4796.jpg"
+    },
+    {
+        "id": 4797,
+        "name": "All Out KDA Icon 4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4797.jpg"
+    },
+    {
+        "id": 4798,
+        "name": "All Out KDA Icon 5",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4798.jpg"
+    },
+    {
+        "id": 5004,
+        "name": "Irelia Golden Border",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5004.jpg"
+    },
+    {
+        "id": 5022,
+        "name": "Irelia No Border",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5022.jpg"
+    },
+    {
+        "id": 5414,
+        "name": "Star Guardian Kai'Sa",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5414.jpg"
+    },
+    {
+        "id": 5419,
+        "name": "Star Guardian Kai'Sa Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5419.jpg"
+    },
+    {
+        "id": 1425,
+        "name": "Elementalist Lux Icon 1",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1425.jpg"
+    },
+    {
+        "id": 1426,
+        "name": "Elementalist Lux Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1426.jpg"
+    },
+    {
+        "id": 1427,
+        "name": "Elementalist Lux Icon 3",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1427.jpg"
+    },
+    {
+        "id": 1428,
+        "name": "Elementalist Lux Icon 4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1428.jpg"
+    },
+    {
+        "id": 1429,
+        "name": "Elementalist Lux Icon 5",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1429.jpg"
+    },
+    {
+        "id": 1430,
+        "name": "Elementalist Lux Icon 6",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1430.jpg"
+    },
+    {
+        "id": 1431,
+        "name": "Elementalist Lux Icon 7",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1431.jpg"
+    },
+    {
+        "id": 1432,
+        "name": "Elementalist Lux Icon 8",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1432.jpg"
+    },
+    {
+        "id": 1433,
+        "name": "Elementalist Lux Icon 9",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1433.jpg"
+    },
+    {
+        "id": 1434,
+        "name": "Elementalist Lux Icon 10",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1434.jpg"
+    },
+    {
+        "id": 1435,
+        "name": "Rare Initial Release Elementalist Lux Icon",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1435.jpg"
+    },
+    {
+        "id": 5638,
+        "name": "Rune Icon 1",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5638.jpg"
+    },
+    {
+        "id": 5639,
+        "name": "Rune Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5639.jpg"
+    },
+    {
+        "id": 5640,
+        "name": "Rune Icon 3",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5640.jpg"
+    },
+    {
+        "id": 5641,
+        "name": "Rune Icon 4",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5641.jpg"
+    },
+    {
+        "id": 4158,
+        "name": "LCS Basic",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4158.jpg"
+    },
+    {
+        "id": 4664,
+        "name": "LCS Fade",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4664.jpg"
+    },
+    {
+        "id": 4159,
+        "name": "LEC Basic",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4159.jpg"
+    },
+    {
+        "id": 4887,
+        "name": "LEC Blue Tiger Camo",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4887.jpg"
+    },
+    {
+        "id": 4888,
+        "name": "LEC Red Tiger Camo",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4888.jpg"
+    },
+    {
+        "id": 5694,
+        "name": "LEC Monster Camo",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5694.jpg"
+    },
+    {
+        "id": 5065,
+        "name": "LPL Blue Tiger",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5065.jpg"
+    },
+    {
+        "id": 5066,
+        "name": "LPL Red Tiger",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5066.jpg"
+    },
+    {
+        "id": 5697,
+        "name": "LPL Blue/Grey",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5697.jpg"
+    },
+    {
+        "id": 5376,
+        "name": "Summoners Rift Outline",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5376.jpg"
+    },
+    {
+        "id": 5462,
+        "name": "X Fade Brazil",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5462.jpg"
+    },
+    {
+        "id": 5470,
+        "name": "X Fade",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5470.jpg"
+    },
+    {
+        "id": 555,
+        "name": "Curse Old Icon",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon555.jpg"
+    },
+    {
+        "id": 5699,
+        "name": "LCK White Tiger Camo",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5699.jpg"
+    },
+    {
+        "id": 5693,
+        "name": "Unique Esports Region Icon 1",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5693.jpg"
+    },
+    {
+        "id": 5706,
+        "name": "Unique Esports Region Icon 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5706.jpg"
+    },
+    {
+        "id": 1099,
+        "name": "2016 ROX Tigers",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon1099.jpg"
+    },
+    {
+        "id": 4169,
+        "name": "EDG Golden",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4169.jpg"
+    },
+    {
+        "id": 5167,
+        "name": "EDG Knight Carrying Flag",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5167.jpg"
+    },
+    {
+        "id": 5377,
+        "name": "EDG Marble",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5377.jpg"
+    },
+    {
+        "id": 5378,
+        "name": "EDG Sapphire",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5378.jpg"
+    },
+    {
+        "id": 5379,
+        "name": "EDG Dragon",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5379.jpg"
+    },
+    {
+        "id": 4171,
+        "name": "FPX Golden",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4171.jpg"
+    },
+    {
+        "id": 4543,
+        "name": "FPX Golden 2",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4543.jpg"
+    },
+    {
+        "id": 4544,
+        "name": "FPX Red",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4544.jpg"
+    },
+    {
+        "id": 4183,
+        "name": "RNG Golden",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4183.jpg"
+    },
+    {
+        "id": 5405,
+        "name": "RNG 2022 Golden",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5405.jpg"
+    },
+    {
+        "id": 4357,
+        "name": "Golden Summoner",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon4357.jpg"
+    },
+    {
+        "id": 699,
+        "name": "Ching Chong Esports",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon699.jpg"
+    },
+    {
+        "id": 5049,
+        "name": "LLA",
+        "image": "https://opgg-static.akamaized.net/meta/images/profile_icons/profileIcon5049.jpg"
     }
 ]
